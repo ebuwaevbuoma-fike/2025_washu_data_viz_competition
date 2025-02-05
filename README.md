@@ -4,3 +4,7 @@ This repository contains Python scripts to provide a focused exploration of Pell
 The Colab notebook in this repository is designed to be an experimental and interactive environment for exploring and analyzing data. While the code has been tested and runs successfully (using "Run All"), please note that it may not always be parsimonious, production-ready or optimally formatted. Where possible, the author has used docstrings and pseudocode to demonstrate workflows.
 
 The aim of sharing this notebook publicly on GitHub is to provide transparency for the author's submission to the 2025 WashU data visualization competition. This notebook is being made available for review to demonstrate the thought process and steps taken throughout the analysis.  It is the author's hope that you find the insights and visualizations valuable.
+
+**Useful Links**
+
+[Tableau Visualization: Pell Grants and Graduation Rates: A Glimpse into the Complexities of Student Success](https://public.tableau.com/views/PellGrantsandGraduationRatesAGlimpse/PellGrantsandGraduationRatesAGlimpsep?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
